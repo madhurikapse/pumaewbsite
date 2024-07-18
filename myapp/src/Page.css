@@ -1,0 +1,9 @@
+
+.page{
+    height: 320px;
+    width: 300px;
+    background-color:red;
+    position: absolute;
+    top: 100px;
+    margin-left: 1100px;
+}  

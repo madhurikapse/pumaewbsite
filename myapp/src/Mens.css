@@ -1,0 +1,100 @@
+.mens-shoes {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .shoes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .shoe {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 270px;
+    text-align: center;
+  }
+  
+  .shoe img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .shoe p {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  .price{
+    color: red;
+  }h1{
+    margin-right: 900px;
+    font-size: large;
+  }
+  .readbox{
+    height: 30px;
+    width: 70px;
+    background-color:#ac1e1e;
+    position: absolute;
+    top: 380px;
+  }
+  .readbox1{
+    height: 30px;
+    width: 70px;
+    background-color:#ac1e1e;
+    position: absolute;
+    top: 800px;
+  }
+  .readbox2{
+    height: 30px;
+    width: 70px;
+    background-color:#ac1e1e;
+    position: absolute;
+    top: 1230px;
+  }
+  label{
+    margin-left: 1100px;
+    height: 200px;
+    
+  }
+  /* src/styles.css */
+/* src/Content.css */
+.content-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+.content-container h1{
+  text-align: center;
+}
+.main-heading {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.main-heading  h1{
+  text-align: center;
+}
+
+.subheading {
+  font-size: 1.5em;
+  color: #555;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.sub-subheading {
+  font-size: 1.25em;
+  color: #777;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.paragraph {
+  font-size: 1em;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+

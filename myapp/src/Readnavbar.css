@@ -1,0 +1,43 @@
+.red{
+    height: 100px;
+    background-color:#c23b3c ;
+    width: 100%;
+    color:  white;
+}
+ p Link{
+    color: white;
+    background-color: white;
+}
+.link {
+    color:white;
+  }
+  
+  .link:hover {
+    color: darkblue;
+  }
+  .div1{
+    height: 100px;
+    border: 1px solid gray;
+    
+  }
+  .DIV2 {
+    color: black;
+    height: 20px;
+    width: 100px;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+  }
+  .DIV3 {
+    color: black;
+    height: 20px;
+    width: 100px;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    
+  }
+  h2{
+    margin-right: 1200px;
+  }

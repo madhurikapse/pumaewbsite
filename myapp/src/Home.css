@@ -1,0 +1,3501 @@
+#flat40percent{
+    width: 100%;
+    height: 550px;
+    position: relative;
+}
+
+#flat40percent > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+
+#endofseasonsale{
+    width: 40%;
+    height: 400px;
+    position: absolute;
+    top: 190px;
+    margin-left: 860px;
+}
+
+#endofseason{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding-left: 150px;
+    line-height: 1.1;
+    letter-spacing: 1px;
+}
+
+#newstyles{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    padding-left: 150px;
+    line-height: 1.8;
+    letter-spacing: 1px;
+}
+
+#extrafive{
+    font-size: 16px;
+    font-weight: 100;
+    color: white;
+    padding-left: 150px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+#forhimherkids{
+    display: flex;
+    justify-content: space-between;
+    width: 58%;
+    margin-top: 20px;
+    margin-left: 210px;
+}
+
+#him{
+    background-color: white;
+    width: 31%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#her{
+    background-color: white;
+    width: 31%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#kids{
+    background-color: white;
+    width: 31%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#coolstylesathotdis{
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid black; */
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#coolstyelstext > p:nth-child(1){
+    font-size: 38px;
+    font-weight: 700;
+}
+
+#coolstyelstext > p:nth-child(2){
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#coolstylesimages{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#coolstylesimages > img{
+    width: 8%;
+    height: 130px;
+    margin-left: 20px;
+    border-radius: 50%;
+    border: 1px solid red;
+}
+
+.imageborder{
+    border: 1px solid red;
+}
+
+#seethegame{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#seethegameimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/35b6f7f51046e4e860050711a6cc7c6ddfb10322-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#seethegametext1{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    position: absolute;
+    top: 34%;
+    left: 6%;
+}
+
+#seethegametext2{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 44.5%;
+    left: 8%;
+    font-weight: 400;
+}
+
+#seethegametext3{
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    top: 52%;
+    left: 16.2%;
+    font-weight: 100;
+}
+
+#seethegamelearnmore{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 62%;
+    left: 17.8%;
+}
+
+#viratkohli{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#viratkohliimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/2fe347a0a97655fbcb8bb782f062e8522ecfebad-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-end;
+}   
+
+#virattext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 190px;
+    left: 1250px;
+}
+
+#virattext2{
+    width: 20%;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 240px;
+    left: 1208px;
+}
+
+#viratshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 300px;
+    left: 1303px;
+}
+
+/* #viratkohli1img{
+    display: none;
+} */
+
+#backtoazzuro{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#backtoazzuroimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/6c6c8eeb889e595ebe354186241b91049b87bb40-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+#backtoazzurotext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 190px;
+    left: 55px;
+}
+
+#backtoazzurotext2{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 238px;
+    left: 55px;
+}
+
+#backtoazzuroshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 290px;
+    left: 55px;
+}
+
+#pumaxtrolls{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#pumaxtrollsimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/c95754a12cfb4ec610699e16fadb83290e2806b3-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+#pumaxtrollstext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 190px;
+    left: 55px;
+}
+
+#pumaxtrollstext2{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 238px;
+    left: 55px;
+}
+#pumaxtrollsshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 290px;
+    left: 55px;
+}
+
+#pumaxcarrots{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#pumaxcarrotsimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/33e1754f474d9d2896f724b524a51f2a023278b2-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+#pumaxcarrotstext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 190px;
+    left: 55px;
+}
+
+#pumaxcarrotstext2{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 238px;
+    left: 55px;
+}
+
+#pumaxcarrotstext3{
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    top: 275px;
+    left: 55px;
+    font-weight: 100;
+}
+
+#carrotsshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 320px;
+    left: 55px;
+}
+
+#pumaxpalm{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#pumaxpalmimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/52e4dd38bfc2f86dd4b8728b4d1fd39f8b30fe6a-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#pumaxpalmtext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 34%;
+    left: 42%;
+}
+
+#pumaxpalmtext2{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 43%;
+    left: 44%;
+    font-weight: bold;
+}
+
+#pumaxpalmtext3{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 55%;
+    left: 45%;
+    font-weight: 100;
+}
+
+#palmshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 66%;
+    left: 47.3%;
+}
+
+#foreverfaster{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#foreverfastervideo > video{
+    width: 100%;
+    height: 100%;
+}
+
+#foreverfastershopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 86%;
+    left: 46%;
+}
+
+#thefuture{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#thefutureimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/72fb3fa9e0c4d6e600bc1b79551ef4cbba205719-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#thefuturetext1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 34%;
+    left: 70%;
+}
+
+#thefuturetext2{
+    color: white;
+    font-size: 26px;
+    position: absolute;
+    top: 44.5%;
+    left: 74%;
+    font-weight: normal;
+}
+
+#thefuturetext3{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 55%;
+    left: 73%;
+    font-weight: 100;
+}
+
+#thefutureshopnow{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 66%;
+    left: 80%;
+}
+
+#kidsmusthavestyles{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+#kidsmusthavestylestext{
+    font-size: 30px;
+    text-align: center;
+}
+
+#kidsmusthavestylesimgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 95%;
+    margin-left: 35px;
+    margin-top: 40px;
+}
+
+#schholstore{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/dfe752b0a313bc267f5aa23a412594d71f933c2b-1536x1536.jpg");
+    width: 24%;
+    height: 350px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#schoolstoretext{
+    position: absolute;
+    font-size: 26px;
+    color: white;
+    font-weight: 700;
+    top: 260px;
+    left: 10px;
+}
+
+#onestopshop{
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    top: 300px;
+    left: 10px;
+}
+
+#casualwear{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/604102f5cbf9b160b4b545ab56561d152d06ac96-1536x1536.jpg");
+    width: 24%;
+    height: 350px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#casualweartext{
+    position: absolute;
+    font-size: 26px;
+    color: white;
+    font-weight: 700;
+    top: 260px;
+    left: 10px;
+}
+
+#wardrobestop{
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    top: 300px;
+    left: 10px;
+}
+
+#softrideshoes{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/5bc14638c184c4c775b2f90210427c3dd4aa33c1-1536x1536.jpg");
+    width: 24%;
+    height: 350px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#softrideshoestext{
+    position: absolute;
+    font-size: 26px;
+    color: white;
+    font-weight: 700;
+    top: 260px;
+    left: 10px;
+}
+
+#everydaycomfort{
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    top: 300px;
+    left: 10px;
+}
+
+#sets{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/ec1fd75b27717e7a78c3fcf71e855d7298329370-1536x1536.jpg");
+    width: 24%;
+    height: 350px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#setstext{
+    position: absolute;
+    font-size: 26px;
+    color: white;
+    font-weight: 700;
+    top: 260px;
+    left: 10px;
+}
+
+#makeastatement{
+    position: absolute;
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+    top: 300px;
+    left: 10px;
+}
+
+#velocitynitro{
+    width: 100%;
+    height: 750px;
+    position: relative;
+}
+
+#velocitynitrocolor{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(173,188,204);
+    position: absolute;
+    top: 40px;
+}
+
+#velocitynitrotext1{
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 24px;
+    top: 60px;
+}
+
+#velocitynitrotext2{
+    font-size: 22px;
+    font-weight: normal;
+    position: absolute;
+    left: 24px;
+    top: 110px;
+}
+
+#velocitynitroshop{
+    width: 50%;
+}
+
+#velocityshopnow{
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 160px;
+    left: 24px;
+}
+
+#velocityshopnitro{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 160px;
+    left: 164px;
+}
+
+#running{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/57b628c688021950aac02b0eae07b9bdb81de7f5-1536x1536.jpg?w=2160&q=80&auto=format");
+    width: 50%;
+    height: 700px;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    left: 700px;
+}
+
+#runningshoes{
+    position: absolute;
+    width: 40%;
+    height: 450px;
+    left: -675px;
+    top: 210px;
+}
+
+#runningshoes > video{
+    width: 720px;
+    height: 100%;
+}
+
+#manchestercalling{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#manchestercallingimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/3fe7386927ec3ba13893df6dd4fe8dcafb576b25-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#manchestercallingtext1{
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 24px;
+    top: 200px;
+    color: white;
+}
+
+#manchestercallingtext2{
+    font-size: 22px;
+    font-weight: normal;
+    position: absolute;
+    left: 24px;
+    top: 250px;
+    color: white;
+}
+
+#manchestercallingshop{
+    width: 50%;
+}
+
+#manchestercallingshopnow{
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 310px;
+    left: 24px;
+}
+
+#manchestercallingshopcollection{
+    width: 11%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 310px;
+    left: 164px;
+}
+
+#forallthesneakers{
+    width: 100%;
+    position: relative;
+    height: 500px;
+}
+
+#forallthesneakersimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/ac3fc79415884460f1a7b3459b333ff091dee5a5-6000x2167.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin-top: 30px;
+}
+
+#forallthesneakerstext1{
+    font-size: 38px;
+    font-weight: 700;
+    width: 30%;
+    position: absolute;
+    float: right;
+    top: 150px;
+    left: 1050px;
+}
+
+#forallthesneakerstext2{
+    font-size: 26px;
+    width: 32%;
+    position: absolute;
+    float: right;
+    top: 250px;
+    left: 1030px;
+}
+
+#forallthesneakersshop{
+    width: 100%;
+}
+
+#forallthesneakersshopnow{
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 330px;
+    left: 1120px;
+}
+
+#forallthesneakersexplore{
+    width: 11%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    height: 40px;
+    position: absolute;
+    top: 330px;
+    left: 1260px;
+}
+
+#pumaspotligh{
+    width: 96%;
+    margin: auto;
+    margin-top: 70px;
+    height: 430px;
+}
+
+#pumaspotlightext{
+    font-size: 26px;
+    font-weight: 500;
+    text-align: left;
+}
+
+#shoeimages{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#shoe1{
+    width: 24%;
+    height: 300px;
+}
+
+#shoe1img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/399844/01/sv01/fnd/IND/fmt/png/PUMA-Court-Shatter-Low-Men's-Sneakers");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#show1text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#show1textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#show1prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#show1prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#shoe2{
+    width: 24%;
+    height: 300px;
+}
+
+#shoe2img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/387672/33/sv01/fnd/IND/fmt/png/Rider-Future-Vintage-Unisex-Sneakers");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#show2text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#show2textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#show2prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#show2prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#shoe3{
+    width: 24%;
+    height: 300px;
+}
+
+#shoe3img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/107353/01/sv01/fnd/IND/fmt/png/Cricket-Square-Men's-Shoes");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#show3text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#show3textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#show3prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#show3prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#shoe4{
+    width: 24%;
+    height: 300px;
+}
+
+#shoe4img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/192259/02/sv01/fnd/IND/fmt/png/Hybrid-NX-Men's-Running-Shoes");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#show4text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#show4textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#show4prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#show4prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+.discount{
+    background-color: rgb(172,30,30);
+    width: 20%;
+    height: 26px;
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+}
+
+#pumaxathletics{
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+    position: relative;
+}
+
+#pumaxathleticsimg{
+    background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/80d92bdf064393dc36761e47b7b28c7e6addb3e5-2880x1000.jpg?w=2160&q=80&auto=format");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+#pumaxathleticstext1{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    position: absolute;
+    top: 34%;
+    left: 6%;
+}
+
+#pumaxathleticstext2{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 44.5%;
+    left: 4%;
+    font-weight: 500;
+}
+
+#pumaxathleticstext3{
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 56%;
+    left: 2.8%;
+    font-weight: 100;
+}
+
+#pumaxathleticslearnmore{
+    width: 8%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    position: absolute;
+    top: 68%;
+    left: 14%;
+}
+
+#aswornbypumafam{
+    width: 95%;
+    height: 650px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+#aswornbypumafamtext1{
+    font-size: 30px;
+    text-align: center;
+}
+
+#clicktoshop{
+    font-size: 14px;
+    color: rgb(90,100,113);
+    font-weight: 500;
+}
+
+#aswornbypumafamimgs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#aswornbypumafamimg1{
+    background-image: url("https://static.pxlecdn.com/photos/668638252/medium/03b08804a1968d3f672c.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg2{
+    background-image: url("https://static.pxlecdn.com/photos/669825078/medium/964c2d3cdee56ff21537.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg3{
+    background-image: url("https://static.pxlecdn.com/photos/662716663/medium/3fc6ae041dedb0ff9345.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg4{
+    background-image: url("https://static.pxlecdn.com/photos/660932219/medium/9d7f11e2e3736f994076.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg5{
+    background-image: url("https://static.pxlecdn.com/photos/657381959/medium/e4dac40864ae0c65b8c0.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg6{
+    background-image: url("https://static.pxlecdn.com/photos/633022562/medium/cb9379a5579a4ecbeb5d.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg7{
+    background-image: url("https://static.pxlecdn.com/photos/665302409/medium/369b67fc1e184237c85f.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg8{
+    background-image: url("https://static.pxlecdn.com/photos/667108817/medium/329b97d0f0a09aad9010.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg9{
+    background-image: url("https://static.pxlecdn.com/photos/660469655/medium/df98163262c6375e5e5d.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg10{
+    background-image: url("https://static.pxlecdn.com/photos/657251656/medium/f33548d2e0ca488356d1.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg11{
+    background-image: url("https://static.pxlecdn.com/photos/656504712/thumbnail/bde4417b453ab14094e3.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#aswornbypumafamimg12{
+    background-image: url("https://static.pxlecdn.com/photos/662358680/medium/24aafce2cbd3c58e8e05.jpg");
+    width: 16.1%;
+    height: 250px;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.instapic{
+    font-size: 21px;
+    font-weight: 100;
+    float: right;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+#recommendedforyou{
+    width: 96%;
+    margin: auto;
+    margin-top: 20px;
+    height: 430px;
+}
+
+#recommendedforyoutext{
+    font-size: 26px;
+    font-weight: 500;
+    text-align: left;
+}
+
+#r-shoeimages{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#r-shoe1{
+    width: 24%;
+    height: 300px;
+}
+
+#r-shoe1img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/399844/01/sv01/fnd/IND/fmt/png/PUMA-Court-Shatter-Low-Men's-Sneakers");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#r-show1text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#r-show1textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#r-show1prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#r-show1prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#r-shoe2{
+    width: 24%;
+    height: 300px;
+}
+
+#r-shoe2img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/394371/01/sv01/fnd/IND/fmt/png/Smashic-Unisex-Sneakers");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#r-show2text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#r-show2textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#r-show2prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#r-show2prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#r-shoe3{
+    width: 24%;
+    height: 300px;
+}
+
+#r-shoe3img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/107353/01/sv01/fnd/IND/fmt/png/Cricket-Square-Men's-Shoes");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#r-show3text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#r-show3textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#r-show3prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#r-show3prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+#r-shoe4{
+    width: 24%;
+    height: 300px;
+}
+
+#r-shoe4img{
+    background-image: url("https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/391262/01/sv01/fnd/IND/fmt/png/Popcat-20-Res-Unisex-Slides");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+}
+
+#r-show4text{
+    display: flex;
+    justify-content: space-between;
+}
+
+#r-show4textdesc{
+    width: 70%;
+    text-align: left;
+}
+
+#r-show4prices > p:nth-child(1){
+    color: rgb(172,30,30);
+}
+
+#r-show4prices > p:nth-child(2){
+    color: rgb(140,140,140);
+}
+
+@media screen and (min-width:1040px) and (max-width:1050px) {
+    #flat40percent{
+        width: 1040px;
+        height: 350px;
+    }
+
+    #endofseasonsale{
+        width: 60%;
+        top: 100px;
+        margin-left: 410px;
+    }
+
+    #endofseason{
+        font-size: 32px;
+    }
+    
+    #newstyles{
+        font-size: 20px;
+    }
+    
+    #extrafive{
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+       
+    #coolstylesimages > img{
+            width: 12%;
+    }
+
+    #seethegame{
+        height: 340px;
+    }
+    
+    #seethegametext1{
+        font-size: 32px;
+        top: 34%;
+        left: 10%;
+    }
+    
+    #seethegametext2{
+        font-size: 20px;
+        top: 45.5%;
+        left: 11.9%;
+    }
+    
+    #seethegametext3{
+        font-size: 16px;
+        top: 53%;
+        left: 19.8%;
+    }
+    
+    #seethegamelearnmore{
+        width: 12%;
+        top: 68%;
+        left: 22%;
+    }
+
+    #viratkohli{
+        height: 340px;
+    }
+    
+    #virattext1{
+        font-size: 34px;
+        position: absolute;
+        top: 100px;
+        left: 800px;
+    }
+    
+    #virattext2{
+        font-size: 22px;
+        position: absolute;
+        top: 142px;
+        left: 790px;
+    }
+    
+    #viratshopnow{
+        width: 11%;
+        position: absolute;
+        top: 188px;
+        left: 840px;
+    }
+
+    #backtoazzuro{
+        height: 340px;
+    }
+    
+    #backtoazzurotext1{
+        font-size: 30px;
+        position: absolute;
+        top: 100px;
+        left: 60px;
+    }
+    
+    #backtoazzurotext2{
+        font-size: 20px;
+        position: absolute;
+        top: 142px;
+        left: 60px;
+    }
+    
+    #backtoazzuroshopnow{
+        width: 11%;
+        position: absolute;
+        top: 188px;
+        left: 60px;
+    }
+
+    #pumaxtrolls{
+        height: 340px;
+    }
+    
+    #pumaxtrollstext1{
+        font-size: 30px;
+        position: absolute;
+        top: 100px;
+        left: 60px;
+    }
+    
+    #pumaxtrollstext2{
+        font-size: 20px;
+        position: absolute;
+        top: 142px;
+        left: 60px;
+    }
+    
+    #pumaxtrollsshopnow{
+        width: 11%;
+        position: absolute;
+        top: 188px;
+        left: 60px;
+    }
+    
+    #pumaxcarrots{
+        height: 340px;
+    }
+    
+    #pumaxcarrotstext1{
+        font-size: 34px;
+        position: absolute;
+        top: 100px;
+        left: 60px;
+    }
+    
+    #pumaxcarrotstext2{
+        font-size: 22px;
+        position: absolute;
+        top: 142px;
+        left: 60px;
+    }
+
+    #pumaxcarrotstext3{
+        font-size: 16px;
+        position: absolute;
+        top: 175px;
+        left: 60px;
+    }
+    
+    #carrotsshopnow{
+        width: 11%;
+        position: absolute;
+        top: 218px;
+        left: 60px;
+    }
+
+    #pumaxpalm{
+        width: 1040px;
+        height: 340px;
+    }
+    
+    #pumaxpalmtext1{
+        font-size: 34px;
+        top: 34%;
+        left: 38.4%;
+    }
+    
+    #pumaxpalmtext2{
+        font-size: 34px;
+        top: 44%;
+        left: 41%;
+    }
+    
+    #pumaxpalmtext3{
+        top: 56%;
+        left: 40.8%;
+    }
+    
+    #palmshopnow{
+        width: 12%;
+        top: 66%;
+        left: 44.3%;
+    }
+    
+    #foreverfaster{
+        height: 340px;
+    }
+    
+    #foreverfastershopnow{
+        width: 12%;
+        top: 86%;
+        left: 45%;
+    }
+
+    #thefuture{
+        height: 340px;
+    }
+    
+    #thefuturetext1{
+        font-size: 34px;
+        top: 34%;
+        left: 63%;
+    }
+    
+    #thefuturetext2{
+        font-size: 20px;
+        top: 47%;
+        left: 68.5%;
+    }
+    
+    #thefuturetext3{
+        font-size: 16px;
+        top: 55%;
+        left: 67%;
+    }
+    
+    #thefutureshopnow{
+        width: 12%;
+        top: 68%;
+        left: 74%;
+    }
+    
+    #kidsmusthavestyles{
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+    }
+    
+    #schholstore{
+        height: 230px;
+    }
+    
+    #schoolstoretext{
+        font-size: 22px;
+        top: 160px;
+        left: 10px;
+    }
+    
+    #onestopshop{
+        font-size: 16px;
+        top: 190px;
+        left: 10px;
+    }
+    
+    #casualwear{
+        height: 230px;
+    }
+    
+    #casualweartext{
+        font-size: 22px;
+        top: 160px;
+        left: 10px;
+    }
+    
+    #wardrobestop{
+        font-size: 16px;
+        top: 190px;
+        left: 10px;
+    }
+    
+    #softrideshoes{
+        height: 230px;
+    }
+    
+    #softrideshoestext{
+        font-size: 22px;
+        top: 160px;
+        left: 10px;
+    }
+    
+    #everydaycomfort{
+        font-size: 16px;
+        top: 190px;
+        left: 10px;
+    }
+    
+    #sets{
+        height: 230px;
+    }
+    
+    #setstext{
+        font-size: 22px;
+        top: 160px;
+        left: 10px;
+    }
+    
+    #makeastatement{
+        font-size: 16px;
+        top: 190px;
+        left: 10px;
+    }
+
+    #velocitynitro{
+        width: 100%;
+        height: 850px;
+        position: relative;
+    }
+    
+    #velocitynitrocolor{
+        height: 650px;
+        top: 40px;
+    }
+    
+    #velocitynitrotext1{
+        font-size: 40px;
+        left: 24px;
+        top: 90px;
+        width: 36%;
+        text-align: left;
+    }
+    
+    #velocitynitrotext2{
+        left: 24px;
+        top: 200px;
+        width: 31%;
+        text-align: left;
+    }
+    
+    #velocitynitroshop{
+        width: 50%;
+    }
+    
+    #velocityshopnow{
+        width: 11%;
+        top: 280px;
+        left: 24px;
+    }
+    
+    #velocityshopnitro{
+        width: 22%;
+        top: 340px;
+        left: 24px;
+    }
+    
+    #running{
+        height: 830px;
+        background-size: cover;
+        background-position: 50% 50%;
+        position: absolute;
+        left: 480px;
+    }
+    
+    #runningshoes{
+        width: 60%;
+        height: 550px;
+        left: -455px;
+        top: 320px;
+    }
+    
+    #runningshoes > video{
+        width: 570px;
+        height: 100%;
+    }
+
+    #manchestercalling{
+        height: 340px;
+        margin-top: 20px;
+        position: relative;
+    }
+    
+    #manchestercallingtext1{
+        font-size: 32px;
+        left: 24px;
+        top: 130px;
+    }
+    
+    #manchestercallingtext2{
+        font-size: 20px;
+        left: 24px;
+        top: 180px;
+    }
+    
+    #manchestercallingshop{
+        width: 50%;
+    }
+    
+    #manchestercallingshopnow{
+        width: 12%;
+        top: 230px;
+        left: 24px;
+    }
+    
+    #manchestercallingshopcollection{
+        width: 17%;
+        top: 230px;
+        left: 164px;
+    }
+
+    #forallthesneakers{
+        height: 340px;
+    }
+    
+    #forallthesneakerstext1{
+        font-size: 30px;
+        top: 80px;
+        left: 690px;
+    }
+    
+    #forallthesneakerstext2{
+        font-size: 20px;
+        width: 37%;
+        margin-top: 170px;
+        margin-left: 450px;
+    }
+    
+    #forallthesneakersshop{
+        width: 100%;
+    }
+    
+    #forallthesneakersshopnow{
+        width: 11%;
+        top: 230px;
+        left: 700px;
+    }
+    
+    #forallthesneakersexplore{
+        width: 15%;
+        top: 230px;
+        left: 830px;
+    }
+
+    #pumaspotligh{
+        margin-top: 50px;
+        height: 330px;
+    }
+    
+    #pumaspotlightext{
+        font-size: 26px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #shoe1{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #shoe2{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #shoe3{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #shoe4{
+        width: 24%;
+        height: 200px;
+    }
+    
+    .discount{
+        width: 26%;
+    }
+    
+    #pumaxathletics{
+        height: 340px;
+    }
+    
+    #pumaxathleticstext1{
+        font-size: 32px;
+        top: 34%;
+        left: 10%;
+    }
+    
+    #pumaxathleticstext2{
+        font-size: 32px;
+        top: 44.5%;
+        left: 7.5%;
+    }
+    
+    #pumaxathleticstext3{
+        font-size: 20px;
+        top: 58%;
+        left: 5.8%;
+    }
+    
+    #pumaxathleticslearnmore{
+        width: 12%;
+        top: 72%;
+        left: 17.1%;
+    }
+
+    #aswornbypumafam{
+        width: 95%;
+        height: 640px;
+        margin: auto;
+        margin-top: 70px;
+    }
+    
+    #aswornbypumafamtext1{
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    #clicktoshop{
+        font-size: 14px;
+        color: rgb(90,100,113);
+        font-weight: 500;
+    }
+    
+    #aswornbypumafamimgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    
+    #aswornbypumafamimg1{
+        display: none;
+    }
+    
+    #aswornbypumafamimg2{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg3{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg4{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg5{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg6{
+        display: none;
+    }
+    
+    #aswornbypumafamimg7{
+        display: none;
+    }
+    
+    #aswornbypumafamimg8{
+        display: none;
+    }
+    
+    #aswornbypumafamimg9{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg10{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg11{
+        width: 24.1%;
+    }
+    
+    #aswornbypumafamimg12{
+        width: 24.1%;   
+    }
+
+    #recommendedforyou{
+        margin-top: 50px;
+        height: 330px;
+    }
+    
+    #recommendedforyoutext{
+        font-size: 26px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #r-shoe1{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #r-shoe2{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #r-shoe3{
+        width: 24%;
+        height: 200px;
+    }
+    
+    #r-shoe4{
+        width: 24%;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width:860px) and (max-width:1039px) {
+    #flat40percent{
+        width: 862px;
+        height: 280px;
+    }
+
+
+    #endofseasonsale{
+        width: 60%;
+        top: 70px;
+        margin-left: 310px;
+    }
+
+    #endofseason{
+        font-size: 27px;
+    }
+    
+    #newstyles{
+        font-size: 21px;
+    }
+    
+    #extrafive{
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+
+    #forhimherkids{
+        display: flex;
+        justify-content: space-between;
+        width: 70%;
+        margin-top: 20px;
+        margin-left: 160px;
+    }
+
+    #coolstylesimages > img{
+        width: 14%;
+    }
+
+    #seethegame{
+        height: 300px;
+    }
+    
+    #seethegametext1{
+        font-size: 28px;
+        top: 26%;
+        left: 10%;
+    }
+    
+    #seethegametext2{
+        font-size: 18px;
+        top: 38%;
+        left: 11.5%;
+    }
+    
+    #seethegametext3{
+        font-size: 14px;
+        top: 50%;
+        left: 21.3%;
+    }
+    
+    #seethegamelearnmore{
+        width: 14.5%;
+        top: 68%;
+        left: 22.2%;
+    }
+
+    #viratkohli{
+        height: 300px;
+    }
+    
+    #virattext1{
+        font-size: 31px;
+        position: absolute;
+        top: 100px;
+        left: 670px;
+    }
+    
+    #virattext2{
+        font-size: 20px;
+        position: absolute;
+        top: 142px;
+        left: 670px;
+    }
+    
+    #viratshopnow{
+        width: 13%;
+        position: absolute;
+        top: 188px;
+        left: 705px;
+    }
+
+    #backtoazzuro{
+        height: 300px;
+    }
+    
+    #backtoazzurotext1{
+        font-size: 28px;
+        position: absolute;
+        top: 100px;
+        left: 20px;
+    }
+    
+    #backtoazzurotext2{
+        font-size: 18px;
+        position: absolute;
+        top: 142px;
+        left: 20px;
+    }
+
+    #backtoazzuroshopnow{
+        width: 13%;
+        position: absolute;
+        top: 188px;
+        left: 20px;
+    }
+
+    #pumaxtrolls{
+        height: 300px;
+    }
+    
+    #pumaxtrollstext1{
+        font-size: 28px;
+        position: absolute;
+        top: 100px;
+        left: 20px;
+    }
+    
+    #pumaxtrollstext2{
+        font-size: 18px;
+        position: absolute;
+        top: 142px;
+        left: 20px;
+    }
+
+    #pumaxtrollsshopnow{
+        width: 13%;
+        position: absolute;
+        top: 188px;
+        left: 20px;
+    }
+    
+    #pumaxcarrots{
+        height: 300px;
+    }
+    
+    #pumaxcarrotstext1{
+        font-size: 31px;
+        position: absolute;
+        top: 80px;
+        left: 20px;
+    }
+    
+    #pumaxcarrotstext2{
+        font-size: 20px;
+        position: absolute;
+        top: 122px;
+        left: 20px;
+    }
+
+    #pumaxcarrotstext3{
+        font-size: 14px;
+        position: absolute;
+        top: 155px;
+        left: 20px;
+    }
+    
+    #carrotsshopnow{
+        width: 13%;
+        position: absolute;
+        top: 198px;
+        left: 20px;
+    }
+
+    #pumaxpalm{
+        width: 860px;
+        height: 300px;
+    }
+    
+    #pumaxpalmtext1{
+        font-size: 28px;
+        top: 34%;
+        left: 43%;
+    }
+    
+    #pumaxpalmtext2{
+        font-size: 28px;
+        top: 44%;
+        left: 45.5%;
+    }
+    
+    #pumaxpalmtext3{
+        font-size: 16px;
+        top: 56%;
+        left: 45.7%;
+    }
+    
+    #palmshopnow{
+        width: 14%;
+        top: 66%;
+        left: 47.5%;
+    }
+    
+    #foreverfaster{
+        height: 300px;
+        margin-top: 40px;
+    }
+    
+    #foreverfastershopnow{
+        width: 12%;
+        top: 75%;
+        left: 45%;
+    }
+
+    #thefuture{
+        height: 300px;
+    }
+    
+    #thefuturetext1{
+        font-size: 28px;
+        top: 34%;
+        left: 66%;
+    }
+    
+    #thefuturetext2{
+        font-size: 18px;
+        top: 47%;
+        left: 70%;
+    }
+    
+    #thefuturetext3{
+        font-size: 16px;
+        top: 55%;
+        left: 67%;
+    }
+    
+    #thefutureshopnow{
+        width: 12%;
+        top: 68%;
+        left: 76%;
+    }
+    
+    #kidsmusthavestyles{
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+    }
+    
+    #schholstore{
+        height: 200px;
+    }
+    
+    #schoolstoretext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #onestopshop{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #casualwear{
+        height: 200px;
+    }
+    
+    #casualweartext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #wardrobestop{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #softrideshoes{
+        height: 200px;
+    }
+    
+    #softrideshoestext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #everydaycomfort{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #sets{
+        height: 200px;
+    }
+    
+    #setstext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #makeastatement{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+
+    #velocitynitro{
+        width: 100%;
+        height: 670px;
+        position: relative;
+    }
+    
+    #velocitynitrocolor{
+        height: 500px;
+        top: 40px;
+    }
+    
+    #velocitynitrotext1{
+        font-size: 32px;
+        left: 24px;
+        top: 60px;
+        text-align: left;
+    }
+    
+    #velocitynitrotext2{
+        font-size: 20px;
+        left: 24px;
+        top: 110px;
+        text-align: left;
+    }
+    
+    #velocitynitroshop{
+        width: 50%;
+    }
+    
+    #velocityshopnow{
+        width: 13%;
+        top: 160px;
+        left: 24px;
+    }
+    
+    #velocityshopnitro{
+        width: 27%;
+        top: 220px;
+        left: 24px;
+    }
+    
+    #running{
+        height: 630px;
+        background-size: cover;
+        background-position: 50% 50%;
+        position: absolute;
+        left: 400px;
+    }
+    
+    #runningshoes{
+        width: 60%;
+        height: 450px;
+        left: -370px;
+        top: 220px;
+    }
+    
+    #runningshoes > video{
+        width: 410px;
+        height: 100%;
+    }
+
+    #manchestercalling{
+        height: 340px;
+        margin-top: 0px;
+        position: relative;
+    }
+    
+    #manchestercallingtext1{
+        font-size: 28px;
+        left: 24px;
+        top: 100px;
+    }
+    
+    #manchestercallingtext2{
+        font-size: 18px;
+        left: 24px;
+        top: 150px;
+    }
+    
+    #manchestercallingshop{
+        width: 50%;
+    }
+    
+    #manchestercallingshopnow{
+        width: 14%;
+        top: 200px;
+        left: 24px;
+    }
+    
+    #manchestercallingshopcollection{
+        width: 20%;
+        top: 200px;
+        left: 164px;
+    }
+
+    #forallthesneakers{
+        height: 300px;
+    }
+    
+    #forallthesneakerstext1{
+        font-size: 27px;
+        top: 70px;
+        left: 550px;
+    }
+    
+    #forallthesneakerstext2{
+        font-size: 18px;
+        width: 42%;
+        margin-top: 150px;
+        margin-left: 450px;
+    }
+    
+    #forallthesneakersshop{
+        width: 100%;
+    }
+    
+    #forallthesneakersshopnow{
+        width: 15%;
+        top: 200px;
+        left: 530px;
+    }
+    
+    #forallthesneakersexplore{
+        width: 19%;
+        top: 200px;
+        left: 680px;
+    }
+
+    #pumaspotligh{
+        margin-top: 50px;
+        height: 500px;
+    }
+    
+    #pumaspotlightext{
+        font-size: 26px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #shoe1{
+        width: 48%;
+        height: 350px;
+        margin-top: 20px;
+    }
+    
+    #shoe2{
+        width: 48%;
+        height: 350px;
+        margin-top: 20px;
+    }
+    
+    #shoe3{
+        display: none;
+    }
+    
+    #shoe4{
+        display: none;
+    }
+    
+    .discount{
+        width: 18%;
+    }
+    
+    #pumaxathletics{
+        height: 300px;
+    }
+    
+    #pumaxathleticstext1{
+        font-size: 28px;
+        top: 26%;
+        left: 10%;
+    }
+    
+    #pumaxathleticstext2{
+        font-size: 28px;
+        top: 38%;
+        left: 7.5%;
+    }
+    
+    #pumaxathleticstext3{
+        font-size: 17.1px;
+        top: 50%;
+        left: 6.3%;
+    }
+    
+    #pumaxathleticslearnmore{
+        width: 14.5%;
+        top: 68%;
+        left: 17.1%;
+    }
+
+    #aswornbypumafam{
+        height: 550px;
+    }
+
+    #aswornbypumafamimgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    
+    #aswornbypumafamimg1{
+        display: none;
+    }
+    
+    #aswornbypumafamimg2{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg3{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg4{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg5{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg6{
+        display: none;
+    }
+    
+    #aswornbypumafamimg7{
+        display: none;
+    }
+    
+    #aswornbypumafamimg8{
+        display: none;
+    }
+    
+    #aswornbypumafamimg9{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg10{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg11{
+        width: 24.1%;
+        height: 200px;
+    }
+    
+    #aswornbypumafamimg12{
+        width: 24.1%;  
+        height: 200px; 
+    }
+
+    #recommendedforyou{
+        margin-top: 50px;
+        height: 500px;
+    }
+    
+    #recommendedforyoutext{
+        font-size: 26px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #r-shoe1{
+        width: 48%;
+        height: 350px;
+        margin-top: 20px;
+    }
+    
+    #r-shoe2{
+        width: 48%;
+        height: 350px;
+        margin-top: 20px;
+    }
+    
+    #r-shoe3{
+        display: none;
+    }
+    
+    #r-shoe4{
+        display: none;
+    }
+}
+
+@media screen and (max-width:460px) {
+    #flat40percent{
+        width: 460px;
+        height: 440px;
+    }
+
+    #flat40percent > img{
+        object-position: 18% 10%;
+    }
+
+    #endofseasonsale{
+        width: 460px;
+        position: relative;
+        margin-left: 0px;
+        top: 0px;
+        height: 180px;
+    }
+
+    #endofseason{
+        font-size: 27px;
+        color: black;
+        padding-left: 0px;
+    }
+    
+    #newstyles{
+        font-size: 21px;
+        color: black;
+        padding-left: 0px;
+    }
+    
+    #extrafive{
+        font-size: 16px;
+        letter-spacing: 0;
+        color: black;
+        padding-left: 0px;
+    }
+
+    #forhimherkids{
+        display: flex;
+        justify-content: space-between;
+        width: 70%;
+        margin-top: 20px;
+        margin-left: 75px;
+    }
+
+    #coolstylesathotdis{
+        width: 460px;
+        height: 300px;
+        /* border: 2px solid black; */
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #coolstyelstext > p:nth-child(1){
+        font-size: 28px;
+        font-weight: 700;
+    }
+    
+    #coolstyelstext > p:nth-child(2){
+        font-size: 18px;
+        margin-top: 20px;
+        font-weight: 100;
+    }
+
+    #coolstylesimages > img{
+        width: 28%;
+    }
+
+    #coolstylesimages > img:nth-child(1){
+        display: none;
+    }
+
+    #coolstylesimages > img:nth-child(2){
+        margin-left: 0px;
+    }
+
+    #coolstylesimages > img:nth-child(5){
+        display: none;
+    }
+
+    #coolstylesimages > img:nth-child(6){
+        display: none;
+    }
+
+    #seethegame{
+        height: 650px;
+    }
+
+    #seethegameimg{
+        display: none;
+    }
+
+    #seethegame1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/6a933faf4b1ab48cddea50f5744481a367ed270a-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: 50% 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+    
+    #seethegametext1{
+        font-size: 22px;
+        top: 520px;
+        left: 21%;
+        color: black;
+    }
+    
+    #seethegametext2{
+        font-size: 16px;
+        top: 558px;
+        left: 19.5%;
+        color: black;
+    }
+    
+    #seethegametext3{
+        font-size: 14px;
+        top: 584px;
+        left: 33.3%;
+        color: black;
+    }
+    
+    #seethegamelearnmore{
+        width: 25%;
+        top: 630px;
+        left: 38%;
+    }
+
+    #viratkohliimg{
+        display: none;
+    }
+
+    #viratkohli{
+        width: 460px;
+        height: 650px;
+        margin-top: 50px;
+    }
+    
+    #virattext1{
+        font-size: 26px;
+        position: absolute;
+        color: black;
+        left: 160px;
+        top: 520px;
+    }
+    
+    #virattext2{
+        font-size: 16px;
+        position: absolute;
+        top: 555px;
+        left: 138px;
+        color: black;
+        width: 40%;
+    }
+    
+    #viratshopnow{
+        width: 20%;
+        position: absolute;
+        top: 600px;
+        left: 180px;
+    }
+
+    #viratkohli1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/5ede87788616904b0bdf26a4b68645d041362376-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #backtoazzuroimg{
+        display: none;
+    }
+
+    #backtoazzuro1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/1870a39eb3ffbe477d584cb9d5f5001ea82c4ce8-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #backtoazzuro{
+        width: 460px;
+        height: 650px;
+    }
+
+    #backtoazzuroimg{
+        height: 500px;
+        background-size: cover;
+    }
+    
+    #backtoazzurotext1{
+        font-size: 26px;
+        color: black;
+        position: absolute;
+        left: 130px;
+        top: 515px;
+    }
+    
+    #backtoazzurotext2{
+        width: 80%;
+        font-size: 16px;
+        color: black;
+        position: absolute;
+        left: 50px;
+        top: 550px;
+    }
+    
+    #backtoazzuroshopnow{
+        width: 24%;
+        color: black;
+        position: absolute;
+        left: 180px;
+        top: 585px;
+        font-weight: 700;
+    }
+
+    #pumaxtrollsimg{
+        display: none;
+    }
+
+    #pumaxtrolls1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/527dad9a12fcaec193dacf055bfeb9a775f6b6e9-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #pumaxtrolls{
+        width: 460px;
+        height: 650px;
+    }
+
+    #pumaxtrollsimg{
+        height: 500px;
+        background-size: cover;
+    }
+    
+    #pumaxtrollstext1{
+        font-size: 26px;
+        color: black;
+        position: absolute;
+        left: 130px;
+        top: 515px;
+    }
+    
+    #pumaxtrollstext2{
+        width: 80%;
+        font-size: 16px;
+        color: black;
+        position: absolute;
+        left: 50px;
+        top: 550px;
+    }
+    
+    #pumaxtrollsshopnow{
+        width: 24%;
+        color: black;
+        position: absolute;
+        left: 180px;
+        top: 585px;
+        font-weight: 700;
+    }
+
+    #pumaxcarrotsimg{
+        display: none;
+    }
+
+    #pumaxcarrots1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/4f2604baf619b7f85b71d79e1e4ea966935a711d-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #pumaxcarrots{
+        width: 460px;
+        height: 650px;
+    }
+
+    #pumaxcarrotsimg{
+        height: 500px;
+        background-size: cover;
+    }
+    
+    #pumaxcarrotstext1{
+        font-size: 26px;
+        color: black;
+        position: absolute;
+        left: 120px;
+        top: 500px;
+    }
+    
+    #pumaxcarrotstext2{
+        font-size: 16px;
+        color: black;
+        position: absolute;
+        left: 160px;
+        top: 535px;
+    }
+
+    #pumaxcarrotstext3{
+        font-size: 14px;
+        color: black;
+        position: absolute;
+        left: 165px;
+        top: 560px;
+        font-weight: normal;
+    }
+    
+    #carrotsshopnow{
+        width: 24%;
+        color: black;
+        position: absolute;
+        left: 180px;
+        top: 605px;
+        font-weight: 700;
+    }
+
+    #pumaxpalm1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/0f3902c2413509449c294e37d4059d95879dee7a-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #pumaxpalmimg{
+        display: none;
+    }
+
+    #pumaxpalm{
+        width: 460px;
+        height: 650px;
+        margin-top: 20px;
+    }
+
+    #pumaxcarrotsimg{
+        height: 500px;
+        background-size: cover;
+    }
+    
+    #pumaxpalmtext1{
+        font-size: 26px;
+        color: black;
+        position: absolute;
+        left: 160px;
+        top: 500px;
+    }
+    
+    #pumaxpalmtext2{
+        font-size: 26px;
+        color: black;
+        position: absolute;
+        left: 180px;
+        top: 535px;
+    }
+
+    #pumaxpalmtext3{
+        font-size: 14px;
+        color: black;
+        position: absolute;
+        left: 182px;
+        top: 570px;
+        font-weight: normal;
+    }
+    
+    #palmshopnow{
+        width: 24%;
+        color: black;
+        position: absolute;
+        left: 195px;
+        top: 605px;
+        font-weight: 700;
+    }
+
+    #foreverfaster{
+        height: 220px;
+        margin-top: 40px;
+        margin-top: 30px;
+    }
+
+    #foreverfastervideo > video{
+        height: 100%;
+    }
+    
+    #foreverfastershopnow{
+        width: 22%;
+        top: 200px;
+        left: 41%;
+    }
+
+    #thefutureimg{
+        display: none;
+    }
+
+    #thefuture1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/cdb8de0773718cb6fc6584ab1fb388abcb0e071e-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #thefuture{
+        width: 460px;
+        height: 650px;
+        margin-top: 20px;
+    }
+    
+    #thefuturetext1{
+        font-size: 24px;
+        color: black;
+        position: absolute;
+        left: 120px;
+        top: 520px;
+    }
+    
+    #thefuturetext2{
+        font-size: 17px;
+        color: black;
+        position: absolute;
+        left: 145px;
+        top: 555px;
+    }
+
+    #thefuturetext3{
+        font-size: 14px;
+        color: black;
+        position: absolute;
+        left: 118px;
+        top: 590px;
+        font-weight: normal;
+    }
+    
+    #thefutureshopnow{
+        width: 24%;
+        color: black;
+        position: absolute;
+        left: 182px;
+        top: 625px;
+        font-weight: 700;
+    }
+
+    #kidsmusthavestyles{
+        width: 100%;
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+    }
+    
+    #schholstore{
+        width: 48%;
+        height: 200px;
+        margin-left: -20px;
+        margin-top: 10px;
+    }
+    
+    #schoolstoretext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #onestopshop{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #casualwear{
+        width: 48%;
+        height: 200px;
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+    
+    #casualweartext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #wardrobestop{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #softrideshoes{
+        width: 48%;
+        height: 200px;
+        margin-left: -20px;
+        margin-top: 10px;
+    }
+    
+    #softrideshoestext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #everydaycomfort{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+    
+    #sets{
+        width: 48%;
+        height: 200px;
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+    
+    #setstext{
+        font-size: 18px;
+        top: 140px;
+        left: 10px;
+    }
+    
+    #makeastatement{
+        font-size: 14px;
+        top: 170px;
+        left: 10px;
+    }
+
+    #velocitynitro{
+        width: 100%;
+        height: 910px;
+        position: relative;
+    }
+    
+    #velocitynitrocolor{
+        display: none;
+    }
+    
+    #velocitynitrotext1{
+        font-size: 32px;
+        left: 74px;
+        top: 460px;
+        text-align: left;
+    }
+    
+    #velocitynitrotext2{
+        font-size: 20px;
+        left: 80px;
+        top: 510px;
+        text-align: left;
+    }
+    
+    #velocitynitroshop{
+        width: 50%;
+    }
+    
+    #velocityshopnow{
+        width: 25%;
+        top: 560px;
+        left: 54px;
+    }
+    
+    #velocityshopnitro{
+        width: 48%;
+        top: 560px;
+        left: 184px;
+    }
+    
+    #running{
+        width: 92%;
+        height: 430px;
+        background-size: cover;
+        background-position: 50% 50%;
+        position: absolute;
+        left: 18px;
+    }
+    
+    #runningshoes{
+        width: 60%;
+        height: 450px;
+        left: 0px;
+        top: 540px;
+    }
+    
+    #runningshoes > video{
+        width: 422px;
+        height: 100%;
+    }
+
+    #manchestercalling{
+        height: 650px;
+        margin-top: 0px;
+        position: relative;
+    }
+
+    #manchestercallingimg{
+        display: none;
+    }
+
+    #manchestercalling1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/e24e59603ec3daa4710332e284321903aae24d9b-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+    
+    #manchestercallingtext1{
+        font-size: 25px;
+        left: 90px;
+        top: 520px;
+        color: black;
+    }
+    
+    #manchestercallingtext2{
+        font-size: 18px;
+        left: 120px;
+        top: 560px;
+        color: black;
+    }
+    
+    #manchestercallingshop{
+        width: 50%;
+    }
+      
+    
+    #manchestercallingshopnow{
+        width: 24%;
+        top: 600px;
+        left: 74px;
+    }
+    
+    #manchestercallingshopcollection{
+        width: 37%;
+        top: 600px;
+        left: 224px;
+    }
+
+    #forallthesneakersimg{
+        display: none;
+    }
+
+    #forallthesneakers1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/48327d4d8b2b39ef9801c3db0ec6e5d9c81c7c3a-3200x3200.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: 50% 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+
+    #forallthesneakers{
+        width: 460px;
+        height: 650px;
+        position: relative;
+    }
+    
+    #forallthesneakerstext1{
+        width: 70%;
+        font-size: 24px;
+        color: black;
+        position: absolute;
+        left: 80px;
+        top: 520px;
+    }
+    
+    #forallthesneakerstext2{
+        width: 70%;
+        font-size: 17px;
+        color: black;
+        position: absolute;
+        left: 80px;
+        top: 590px;
+    }
+
+    #forallthesneakersshopnow{
+        width: 28%;
+        top: 640px;
+        left: 68px;
+    }
+    
+    #forallthesneakersexplore{
+        width: 37%;
+        top: 640px;
+        left: 234px;
+    }
+
+    #pumaspotligh{
+        margin-top: 70px;
+        height: 300px;
+    }
+    
+    #pumaspotlightext{
+        font-size: 20px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #shoe1{
+        width: 48%;
+        height: 180px;
+        margin-top: 20px;
+    }
+    
+    #shoe2{
+        width: 48%;
+        height: 180px;
+        margin-top: 20px;
+    }
+    
+    #shoe3{
+        display: none;
+    }
+    
+    #shoe4{
+        display: none;
+    }
+    
+    .discount{
+        width: 26%;
+    }
+    
+    #pumaxathletics{
+        height: 650px;
+    }
+
+    #pumaxathleticsimg{
+        display: none;
+    }
+
+    #pumaxathletics1img{
+        background-image: url("https://cdn.sanity.io/images/qa41whrn/prod/aca83bd1f93efe5b6ca5adb4dabcd8d55d7a52f7-1536x1536.jpg?w=720&q=80&auto=format");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: 50% 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:flex-end;
+    }
+    
+    #pumaxathleticstext1{
+        font-size: 22px;
+        top: 520px;
+        left: 28%;
+        color: black;
+    }
+    
+    #pumaxathleticstext2{
+        font-size: 22px;
+        top: 550px;
+        left: 24.5%;
+        color: black;
+    }
+    
+    #pumaxathleticstext3{
+        font-size: 17.1px;
+        top: 590px;
+        left: 15.3%;
+        color: black;
+    }
+    
+    #pumaxathleticslearnmore{
+        width: 25%;
+        top: 640px;
+        left: 38%;
+    }
+    
+    #aswornbypumafam{
+        height: 400px;
+    }
+
+    #aswornbypumafamimgs{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    
+    #aswornbypumafamimg1{
+        display: none;
+    }
+    
+    #aswornbypumafamimg2{
+        display: none;
+    }
+    
+    #aswornbypumafamimg3{
+        width: 32.1%;
+        height: 150px;
+    }
+    
+    #aswornbypumafamimg4{
+        width: 32.1%;
+        height: 150px;
+    }
+    
+    #aswornbypumafamimg5{
+        width: 32.1%;
+        height: 150px;
+    }
+    
+    #aswornbypumafamimg6{
+        display: none;
+    }
+    
+    #aswornbypumafamimg7{
+        display: none;
+    }
+    
+    #aswornbypumafamimg8{
+        display: none;
+    }
+    
+    #aswornbypumafamimg9{
+        width: 32.1%;
+        height: 150px;
+    }
+    
+    #aswornbypumafamimg10{
+        width: 32.1%;
+        height: 150px;
+    }
+    
+    #aswornbypumafamimg11{
+        display: none;
+    }
+    
+    #aswornbypumafamimg12{
+        width: 32.1%;  
+        height: 150px; 
+    }
+
+    #recommendedforyou{
+        margin-top: 70px;
+        height: 300px;
+    }
+    
+    #recommendedforyoutext{
+        font-size: 20px;
+        font-weight: 500;
+        text-align: left;
+    }
+    
+    #r-shoe1{
+        width: 48%;
+        height: 180px;
+        margin-top: 20px;
+    }
+    
+    #r-shoe2{
+        width: 48%;
+        height: 180px;
+        margin-top: 20px;
+    }
+    
+    #r-shoe3{
+        display: none;
+    }
+    
+    #r-shoe4{
+        display: none;
+    }
+}
+
